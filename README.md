@@ -74,7 +74,7 @@ This project is available as open source under the terms of the [MIT License](ht
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/amigodheena/photo-renamer-tool/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AmigoDheena/photo-renamer-tool/issues).
 
 ## 📅 Created
 
